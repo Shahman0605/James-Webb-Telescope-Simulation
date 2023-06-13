@@ -1,2 +1,4 @@
 # James-Webb-Telescope-Simulation
 This mini-project explores the so-called restricted three-body problem where an small object, such as an asteroid or satellite, is interacting with two large objects, such as the Sun and the Earth, through Newtonian gravity. Specifically, this exercise set looks at five special locations where a small object can orbit synchronously with the Earth. These locations are called Lagrange points, and they can be found using Newton’s law of gravitation and Newton’s second law of motion. For any two-body system there exist five Lagrange points. Three of them can be found by finding the zeros of a single non-linear equation using Newton’s method. The last two Lagrange points can be found by finding the zeros of a pair of coupled non-linear equations using the vector version of Newton’s method.
+### Edited The main project file: 
+After some corrections in the G_11_mini_project.ipynb file. Changed codeline is named as Edited_exercies.ipynb
